@@ -14,9 +14,6 @@
 </p>
 
 #
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)](https://github.com/dailonas/github-readme-stats)
-
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
@@ -28,19 +25,9 @@ student in electronic and computer systems
 
 ### @link: https://guns.lol/dailonas 
 
-
-#### About me
 ```md
-Username = delonas or daimyo 
+Username = dailonas or daimyo 
 Age = 20 years.
 Country = Ivory Coast, Located in West Africa.
 Speak = French and English, I continue to improve myself.
-```
-
-#### Usage time
-```text
- Python         ███████░░░░░░░░░░░░░░░░░░░   15.0% 
- JavaScript     ███████░░░░░░░░░░░░░░░░░░░   15.0% 
- Assembly       ███████░░░░░░░░░░░░░░░░░░░   15.0%  
- C / C++        ███████░░░░░░░░░░░░░░░░░░░   15.0% 
 ```
