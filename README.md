@@ -5,7 +5,7 @@
 
 #
 <p align="center">
-  <a href="https://github.com/A-Unix"  target="_blank">
+  <a href="https://github.com/dailonas"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
   </a><br>
   <a href="https://github.com/A-Unix?tab=repositories"  target="_blank">
