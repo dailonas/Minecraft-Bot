@@ -1,4 +1,4 @@
-# Hi there, Atul this side.
+# Hi there, Github.
  
 - 🪄 I’m currently working on more projects including Python(🐍) and Shell(🐚). I'm also learning PHP(🖬) programming language.
 - ♥️ I love programming a lot in Python(🐍) and Shell(🐚), and I'm looking forward to collaborate.<br>
@@ -14,11 +14,12 @@
 </p>
 
 #
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)](https://github.com/A-Unix/github-readme-stats)
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)](https://github.com/dailonas/github-readme-stats)
 
 
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dailonas&show_icons=true&theme=transparent">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailonas&theme=transparent)">
 <p align="right">
 Computer enthusiast in training,
 student in electronic and computer systems
